@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi! I'm Tyler Gerding, thank you for stopping by my profile!
 
-<!--
-**Tygerd74/Tygerd74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Recent MSBA graduate from Florida State University 
 
-Here are some ideas to get you started:
+## Areas of Interest:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Pricing Analytics
+ - Revenue Management
+ - Operationas Analytics
+ - Supply Chain Analytics
+ - Business Intelligence
+ - Machine Learning
+
+## Technical Skills
+
+ ### Programming
+ - Python (Pandas, Numpy)
+ - SQL
+ - Data Visualization (PowerBI/Tableau)
+ - Machine Learning (Tensorflow, PyTorch, scikit-learn)
+
+ ### Analytics
+ - Forecasting
+ - Statistical Modeling
+ - Regression Analysis
+ - ML/AI
+
+ ### Tools
+ - VS Code
+ - Jupyter Notebook
+ - Spyder
+ - SAP
+ - Snowflake (SQL)
+ - Microsoft Suite (Excel, PowerApps, etc)
+
+
+## Connect With Me!
+
+- LinkedIn: linkedin.com/in/tylercgerding
