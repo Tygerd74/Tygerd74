@@ -1,6 +1,6 @@
 # Hi! I'm Tyler Gerding, thank you for stopping by my profile!
 
-## Recent MSBA graduate from Florida State University 
+## I'm a recent MSBA graduate from Florida State University with a background in Economics, International Affairs, and Project Management. My primary areas of focus revolve around strategic operational/revenue management decision making.
 
 ## Areas of Interest:
 
