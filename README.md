@@ -20,10 +20,14 @@
  - Machine Learning (Tensorflow, PyTorch, scikit-learn)
 
  ### Analytics
- - Forecasting
- - Statistical Modeling
- - Regression Analysis
- - ML/AI
+ - Oprimization & Decision Analysis
+ - Forecasting (SES, DES, TES, Trend Analysis, Demand Forecasting)
+ - Statistical Modeling (Signficance Testing, Hypothesis Testing, Confidence Intervals, ANOVA)
+ - Regression Analysis (Linear and Multivariative, Logistic, Fixed Effects, Interaction Models)
+ - ML/AI (Decision Trees, Random Forests, Neural Networks, CNNs, Ensemble Methods)
+ - Predictive Modeling/Analytics
+ - Causal Inference & Treatment Effect Modeling
+ - Business Intelligence & KPI Development
 
  ### Tools
  - VS Code
